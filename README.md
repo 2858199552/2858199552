@@ -27,3 +27,10 @@ B站（直播）： [洋流朋克](https://space.bilibili.com/3493117003041074)
 [地狱轮回](https://store.steampowered.com/app/3584140/_/)
 
 >这是一款国风志怪地狱解救的肉鸽地牢游戏。化为古代社会中的屠夫，为追求自由和生存在十殿阎罗和十八层地狱中轮回，在血与泪中悔悟，获得天庭神灵的帮助，别忘记人间还有一个你留恋的妻子。
+
+## 参考数据
+
+<!-- 统计数据 -->
+<div align="center">
+  <img height="500px" src="https://tc.z.wiki/autoupload/f/R5kbv9BGr4UEbMhGAezwauLiCfpjDkmm_nK2r2Q_jbSyl5f0KlZfm6UsKj-HyTuv/20250717/2T1F/2000X1200/sankeymatic_20250717_042449_2000x1200.png" />
+</div>
